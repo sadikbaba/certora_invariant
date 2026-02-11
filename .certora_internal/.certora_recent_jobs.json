@@ -1,0 +1,13 @@
+{
+    "/home/sadikbaba/certora_invariant_example": [
+        {
+            "anonymous_key": "9731820cc73669628b2083f18af5cca880452a19",
+            "domain": "https://prover.certora.com",
+            "job_id": "18aad7d5da024cda873bb918b0eeb9e1",
+            "notify_msg": "Testing Invariant",
+            "output_url": "https://prover.certora.com/output/3072084/18aad7d5da024cda873bb918b0eeb9e1?anonymousKey=9731820cc73669628b2083f18af5cca880452a19",
+            "time": 1770850266,
+            "user_id": "3072084"
+        }
+    ]
+}
