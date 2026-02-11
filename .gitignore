@@ -2,3 +2,4 @@
 .bashrc
 .profile
 .env
+.certora_internal
