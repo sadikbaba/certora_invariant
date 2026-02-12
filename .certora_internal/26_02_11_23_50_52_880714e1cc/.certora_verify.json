@@ -1,8 +1,0 @@
-{
-    "importFilesToOrigRelpaths": {},
-    "primary_contract": "Voting",
-    "specfile": "specs/invariant.spec",
-    "specfileOrigRelpath": "specs/invariant.spec",
-    "specfilesToImportDecls": {},
-    "type": "spec"
-}
